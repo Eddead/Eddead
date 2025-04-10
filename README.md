@@ -1,15 +1,14 @@
 ## Hi there 👋, I'm Eddie
-## Welcome to my GitHub profile!
+# I'm a passionate developer. I enjoy building applications, and am eager to learn new things.
 
-<p align="center">
-  <!-- Stats Card -->
-  <a href="https://github.com/Eddead/github-readme-stats">
-    <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api?username=Eddead&show_icons=false&theme=default&hide=stars,prs,issues&rank_icon=github" />
-  </a>
+## 🔧 Technologies & Tools:
+- **Languages**: JavaScript, Python, HTML/CSS, PHP, Kotlin, Java
+- **Frameworks/Libraries**: OpenCV
+- **Tools**: Git
+- **Database**: MySQL, Firebase
 
-  <!-- Top Languages Card -->
-  <a href="https://github.com/Eddead/convoychat">
-    <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eddead&layout=compact&langs_count=8" />
-  </a>
-</p>
+## 📈 GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats-pi-bice.vercel.app?user=Eddead&theme=vue-dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats-lyart-zeta-54.vercel.app/api/top-langs/?username=Eddead&layout=donut&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
