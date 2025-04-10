@@ -8,7 +8,8 @@
 - **Database**: MySQL, Firebase
 
 ## 📈 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats-pi-bice.vercel.app?user=Eddead&theme=vue-dark&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-pi-bice.vercel.app?user=Eddead&theme=tokyo-night&count_private=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats-lyart-zeta-54.vercel.app/api/top-langs/?username=Eddead&layout=donut&theme=tokyonight&langs_count=8)]
+[![Top Langs](https://github-readme-stats-self-sigma-16.vercel.app/api/top-langs/?username=Eddead&show_icons=true&theme=tokyo-night&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 
