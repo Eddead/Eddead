@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Eddie
-# I'm a passionate developer. I enjoy building applications, and am eager to learn new things.
+### I'm a passionate developer. I enjoy building applications, and am eager to learn new things.
 
 ## 🔧 Technologies & Tools:
 - **Languages**: JavaScript, Python, HTML/CSS, PHP, Kotlin, Java
